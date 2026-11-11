@@ -13,6 +13,6 @@ An end-to-end SOC laboratory environment demonstrating threat detection, adversa
 
 ## Progress Checklist
 - [x] Phase 1: Environment Architecture & Repository Initialization
-- [ ] Phase 2: Windows 11 Deployment & Sysmon Configuration
+- [X] Phase 2: Windows 11 Deployment & Sysmon Configuration
 - [ ] Phase 3: Wazuh Agent Integration & Sysmon Log Routing
 - [ ] Phase 4: Attack Simulation & Rule Validation
